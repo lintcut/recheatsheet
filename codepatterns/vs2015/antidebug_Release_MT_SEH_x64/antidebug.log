@@ -1,0 +1,7 @@
+﻿  antidebug.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  antidebug.vcxproj -> C:\xworkspace\src\recheatsheet\codepatterns\vs2015\..\output\vs2015\antidebug_Release_MT_SEH_x64.exe
+  antidebug.vcxproj -> C:\xworkspace\src\recheatsheet\codepatterns\vs2015\..\output\vs2015\antidebug_Release_MT_SEH_x64.pdb (Full PDB)
+  Could Not Find C:\xworkspace\src\recheatsheet\codepatterns\output\vs2015\*.ilk
